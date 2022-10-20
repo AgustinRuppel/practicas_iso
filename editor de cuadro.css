@@ -1,0 +1,33 @@
+div{
+    border-style: solid ;
+    margin-bottom: 0.5cm;
+    padding: 0.2cm;
+    border: solid 1em #000;
+    font-family: serif;
+    font-size: 0.5cm;
+}
+.uno{
+    padding-left: 0cm;
+}
+
+.dos{
+    padding-left: 0.5cm;
+}
+.tres{
+    padding-left: 1cm;
+}
+.cuatro{
+    padding-left: 2cm;
+}
+.cinco{
+    margin-left: 1cm;
+    padding-left: 1cm;
+}
+.seis{
+    margin-left: 1.5cm;
+    padding-left:0.5cm;
+}
+.siete{
+    margin-left: 2cm;
+    padding-left: 0cm;
+}
